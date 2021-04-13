@@ -1,3 +1,8 @@
+
+> :warning: This gear has been archived is favor of https://gitlab.com/flywheel-io/flywheel-apps/hierarchy-curator
+
+
+
 [![CircleCI](https://circleci.com/gh/flywheel-apps/custom-curator.svg?style=shield)](https://app.circleci.com/pipelines/github/flywheel-apps/custom-curator)
 
 # Custom Curation Gear
